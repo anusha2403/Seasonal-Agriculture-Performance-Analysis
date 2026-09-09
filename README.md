@@ -20,8 +20,8 @@ Agricultural profitability and yield depend heavily on seasonal dynamics, enviro
 * **Data Manipulation:** `pandas`, `numpy`
 * **Statistical Analysis:** `scipy` 
 * **Data Visualization:** `matplotlib`, `seaborn`
-* **Environment:** Jupyter Notebook/ Goggle colab/ VS Code
-
+* **Environment:** Jupyter Notebook
+  
 ---
 
 ## 📊 Dataset & Key Variables
